@@ -20,49 +20,57 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
-  We will be using Instagram and Discord as our communication channels
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time?
-  Everyone should try to check messages at the end of each day, so everyone should respond to new messages at most in 1 day
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
-  provide constructive feedback and offer help whenever you think another member might be struggling
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
-  listen to other members' opinions and be friendly when different opinions arise
+* Communication Channel
+    * Instagram and Discord will be our primary communication channels
+  
+* Response Time
+  * Each team member will check messages daily and respond within 24 hours whenever possible.
+
+* Notification
+  * Team members should promptly notify the group either in person or text messages(preferred for record) if:
+
+      * They are unable to attend a lecture, lab, or meeting.
+      * They anticipate difficulty meeting a deadline.
+      * They require constructive feedback or clarification regarding assigned tasks.
+
+* Respectful and Inclusive Communication
+  * Listen actively to others’ ideas and opinions.
+  * Give everyone equal opportunity to contribute.
+  * Offer constructive feedback and support when teammates are struggling.
+  * Maintain positive and respectful conversations even when different opinions arise.
 
 ---
 
-### [Other Categories of norms and expectations go here]
+### Work Ethic and Collaboration
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-  - active communication and updates throughout the group project
-  - take responsibilities and put in necessary efforts throughout the group project
-  - act with friendliness and kindness when discussing or helping other members in the team
-  - adheres to internal deadlines and complete work in a timely manner
+* Maintain active communication and updates throughout the group project.
+* Take responsibilities and put in necessary efforts throughout the group project.
+* Act with friendliness and kindness when discussing or helping other members in the team.
+* Adhere to internal deadlines and complete work in a timely manner.
 
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-  Our decisions throughout the project will be made based on majority vote, and we will aim to have thorough discussions before finalizing our possible options.
 
 ---
 
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-  Try to bring every possible question or conflict up for discussion, so that every member can contribute their own ideas and we can try to choose the best option. We could also try to consult our TA during lab or our instructor during lecture to obtain additional advice for the best possible option.
+* If disagreements occur, we will:
+    * Discuss the issue openly and respectfully as a team, giving everyone the chance to share their perspective.
+    * Work toward a compromise that best supports the project’s goals.
+    * Consult our TA or course instructor for guidance if necessary.
 
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-  All members should try to adhere to the following behaviours:
+* All members should try to adhere to the following behaviours:
 
-- attend lectures and labs, and notify other members in advance if they will be missing any lecture or lab
-- complete their portion of work in a timely manner, especially if further steps of the project depend on the completion of their work
-- don't hesitate on bringing problems or any potential difficulties throughout the project to the rest of the team, and consult the TA/instructor whenever needed
+  * Attend lectures and labs, and notify other members in advance if they will be missing any lecture or lab
+  * Complete their portion of work in a timely manner, especially if further steps of the project depend on the completion of their work
+  * Don't hesitate on bringing problems or any potential difficulties throughout the project to the rest of the team, and consult the TA/instructor whenever needed
 
 ---
 
@@ -71,4 +79,4 @@ This contract sets out shared expectations and commitments for how our team will
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
-Gordon Nie, Zirui Xu, Samuel Cheng, Kevin Joseph
+Gordon Nie, Zirui Xu, Samuel Cheng, Kevin Joseph, Joe Lin
